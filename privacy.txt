@@ -1,0 +1,1 @@
+Terra Lens does not collect any information through the app or any services associated with Terra Lens. This app does not share any information other than location data directly to the iCloud Photos SDK onboard the device which is used to tag your photos. All location data is stored on your device and you can delete it / edit it at any time.
